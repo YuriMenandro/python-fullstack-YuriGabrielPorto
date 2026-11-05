@@ -10,5 +10,5 @@ juros_total = montante - capital_inicial
 print(f"Capital inicial: {capital_inicial:.2f} ")
 print(f"Taxa: {taxa_juros:.2f}")
 print(f"Período: {qnt_meses}")
-print(f"Juros totais: {juros_total}")
+print(f"Juros totais: {juros_total:.2f}")
 print(f"Montante: {montante:.2f}")
